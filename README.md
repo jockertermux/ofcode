@@ -2,8 +2,8 @@
 <img src="https://raw.githubusercontent.com/Xinz-Team/XinzBot/main/media/Itsuki.jpg" alt="OFCODE" width="128" height="128"/>
 </p>
 <p align="center">
-  <a href="https://github.com/jockertermux/ofcode#Instalacion">Instalacion</a> •
-  <a href="https://github.com/jockertermux/ofcode#Uso">Uso</a> 
+  <a href="https://github.com/jockertermux/ofcode#instalacion">Instalacion</a> •
+  <a href="https://github.com/jockertermux/ofcode#uso">Uso</a> 
 </p>
 
 ---
