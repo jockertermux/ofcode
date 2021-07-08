@@ -1,10 +1,14 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Xinz-Team/XinzBot/main/media/Itsuki.jpg" alt="OFCODE" width="128" height="128"/>
 </p>
+<p align="center">
+  <a href="https://github.com/jockertermux/ofcode#Instalacion">Instalacion</a> •
+  <a href="https://github.com/jockertermux/ofcode#Uso">Uso</a> 
+</p>
 
 ---
 
-*Instalacion*
+#*Instalacion*
 
 pkg install git
 
@@ -16,7 +20,7 @@ chmod +x *
 
 bash install.sh
 
-*Uso*
+#*Uso*
 
 Ofcode tiene dos opciones ofuscar y desofuscar codigos 
 
