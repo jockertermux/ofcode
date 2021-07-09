@@ -14,19 +14,19 @@
 
 ---
 
-#*Instalacion*
+# *Instalacion*
 
-pkg install git
+$ pkg install git
 
-git clone https://github.com/jockertermux/ofcode
+$ git clone https://github.com/jockertermux/ofcode
 
-cd ofcode
+$ cd ofcode
 
-chmod +x *
+$ chmod +x *
 
-bash install.sh
+$ bash install.sh
 
-#*Uso*
+# *Uso*
 
 Ofcode tiene dos opciones ofuscar y desofuscar codigos 
 
