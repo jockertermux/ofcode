@@ -1,6 +1,10 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Xinz-Team/XinzBot/main/media/Itsuki.jpg" alt="OFCODE" width="128" height="128"/>
 </p>
+<a href="https://github.com/jockertermux/followers"><img title="Followers" src="https://img.shields.io/github/followers/zennn08?color=blue&style=flat-square"></a>
+<a href="https://github.com/jockertermux/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Xinz-Team/XinzBot?color=red&style=flat-square"></a>
+<a href="https://github.com/jockertermux/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Xinz-Team/XinzBot?color=red&style=flat-square"></a>
+<a href="https://github.com/jockertermux/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Xinz-Team/XinzBot?label=Watchers&color=blue&style=flat-square"></a>
 <p align="center">
   <a href="https://github.com/jockertermux/ofcode#instalacion">Instalacion</a> •
   <a href="https://github.com/jockertermux/ofcode#uso">Uso</a> 
